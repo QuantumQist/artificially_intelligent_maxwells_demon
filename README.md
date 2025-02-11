@@ -17,4 +17,6 @@ Each folder includes the following components:
 - **Other essential files** that define the RL agents and environments. Modification of these files is not recommended.  
   - RL environments are defined in files prefixed with `sac_tri_envs`.  
   - Core agent functionalities are implemented in files prefixed with `core` and `sac_tri`.  
-- **`data` folder** – Contains the trained RL agents for the corresponding models. Users can conveniently interact with these agents in the `evaluate_agent.ipynb` notebook.  
+- **`data` folder** – Contains the trained RL agents for the corresponding models. Users can conveniently interact with these agents in the `evaluate_agent.ipynb` notebook.
+
+The trained agent models can be downloaded from ...
