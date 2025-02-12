@@ -1,4 +1,4 @@
-# Artificially_Intelligent_Maxwells_Demon
+# artificially_intelligent_maxwells_demon
 
 Source code used to generate the results in arXiv:2408.15328
 
