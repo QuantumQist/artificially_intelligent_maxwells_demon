@@ -1,6 +1,6 @@
 # artificially_intelligent_maxwells_demon
 
-Source code used to generate the results in arXiv:2408.15328
+Source code used to generate the results in https://doi.org/10.1088/2058-9565/adbccf
 
 This repository contains three folders, each corresponding to a distinct set of reinforcement learning (RL) models used to generate the results in the paper. The folders are:
 
